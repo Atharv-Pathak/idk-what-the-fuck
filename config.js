@@ -8,7 +8,7 @@ module.exports = {
 	},
   bot: {
     name: 'PRO MUSIC', // Bot Name
-    token: '', // Bot token if showing Stats
+    token: 'process.env.TOKENS', // Bot token if showing Stats
     logo: '', //Bot Logo used in embeds and favicon
     description: '', //description of your bot used in embed and website
     support: '', // support server url of your bot
