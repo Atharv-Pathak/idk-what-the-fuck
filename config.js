@@ -1,10 +1,10 @@
 module.exports = {
-  showStats: false, // Booleen | true / false
+  showStats: true, // Booleen | true / false
 	website: {
 		protocol: 'https://', // https:// or http://
 		domain: 'promusic.up.railway.app', // website link without protocol ex. bot-website.tejas1794.repl.co
 		port: 3000,
-    cookieSecret: '' // Cookie secret | charaters used store client data
+    cookieSecret: 'tejas.ls.nub' // Cookie secret | charaters used store client data
 	},
   bot: {
     name: 'PRO MUSIC', // Bot Name
