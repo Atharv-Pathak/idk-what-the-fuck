@@ -19,16 +19,16 @@ module.exports = {
       description: 'Use command p.setup and bot will create a channel just type song name in that channel and bot will play song no need of prefix or any command' // Feature 1 Description
     },
     feature2: {
-      main: '14+ FILTERS ', // Feature 2 Heading
-      description: 'BOT HAS 14+ FILTERS AND USE LAVALINK FOR MUSIC' // Feature 1 Description
+      main: 'BOT HAS 14+ FILTERS AND USE LAVALINK FOR MUSIC', // Feature 2 Heading
+      description: '14+ FILTERS' // Feature 1 Description
     },
     feature3: {
-      main: 'SMIPLIFIED HELP COMMAND', // Feature 3 Heading
-      description: 'Very simple help command with reaction system' // Feature 1 Description
+      main: 'Very simple help command with reaction system', // Feature 3 Heading
+      description: 'SMIPLIFIED HELP COMMAND' // Feature 1 Description
     }
   },
   img: {
-    img1: '', // help cmd image of your bot ex. https://cdn.discordapp.com/attachments/868823136538333184/889852973713354823/Capture.PNG
+    img1: 'https://cdn.discordapp.com/avatars/812627276365561867/d944538f37315c0a57c7e32de6b8ae97.png', // help cmd image of your bot ex. https://cdn.discordapp.com/attachments/868823136538333184/889852973713354823/Capture.PNG
     img2: 'https://media.discordapp.net/attachments/862516214160687124/890599192035217528/unknown.png' // most famous command image of your bot Ex. https://cdn.discordapp.com/attachments/868823136538333184/889853204697849926/Capture.PNG
   }
   
