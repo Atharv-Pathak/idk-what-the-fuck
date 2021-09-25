@@ -72,7 +72,7 @@ const url = require('url'),
       feature2d: config.bot.feature2.main,
       feature2: config.bot.feature2.description,
       feature3: config.bot.feature3.main,
-      feature3d: config.bot.feature2.description,
+      feature3d: config.bot.feature3.description,
 		};
 		res.render(
 			path.resolve(`${templateDir}${path.sep}${template}`),
